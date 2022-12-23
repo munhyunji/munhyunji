@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📫 Studying <br><br>
 <img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=java&logoColor=white"/>
 
-🛠️ Tools
+🛠️ Tools <br><br>
 <img src="https://img.shields.io/badge/Eclipse-050099?style=flat-square&logo=java&logoColor=white"/>
 
 
