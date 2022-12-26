@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## NOW..
+- 학점은행제 컴퓨터 공학과 재학중
+- Back-end 개발회사 재직중
 
 📫 Languages <br><br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
