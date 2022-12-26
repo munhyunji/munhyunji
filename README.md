@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 학점은행제 컴퓨터 공학과 재학중
 - Back-end 개발회사 재직중
 
+ThankYouForVisitig! ✿˘◡˘✿<br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunhyunji&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 📫 Languages <br><br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -39,11 +42,4 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
  
 
- ThankYouForVisitig! ✿˘◡˘✿<br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunhyunji&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munhyunji)](https://github.com/munhyunji/github-readme-stats)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhg0904)](https://solved.ac/mhg0904/)
