@@ -40,7 +40,7 @@ ThankYouForVisitig! ✿˘◡˘✿<br>
 🤔 Studying <br><br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C#-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munhyunji)](https://github.com/munhyunji/github-readme-stats)
